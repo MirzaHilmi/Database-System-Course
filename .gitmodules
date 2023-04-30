@@ -1,0 +1,3 @@
+[submodule "Airline-Reservation-Database"]
+	path = Airline-Reservation-Database
+	url = https://github.com/MirzaHilmi/Airline-Reservation-Database
