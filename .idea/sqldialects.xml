@@ -7,12 +7,12 @@
     <file url="file://$PROJECT_DIR$/assignments/assignment-3/ddl_program_studi.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/assignments/assignment-3/ddl_seleksi_masuk.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/assignments/assignment-3/ddl_strata.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dml_fakultas.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dml_jurusan.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dml_mahasiswa.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dml_program_studi.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dml_seleksi_masuk.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dml_strata.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/assignments/assignment-3/dml_fakultas.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/assignments/assignment-3/dml_jurusan.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/assignments/assignment-3/dml_mahasiswa.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/assignments/assignment-3/dml_program_studi.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/assignments/assignment-3/dml_seleksi_masuk.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/assignments/assignment-3/dml_strata.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="DB2" />
   </component>
 </project>
