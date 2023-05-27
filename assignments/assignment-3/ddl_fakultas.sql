@@ -1,4 +1,4 @@
-CREATE TABLE sbd.fakultas
+CREATE TABLE akademik.fakultas
 (
     id_fakultas SMALLINT,
     fakultas    VARCHAR(45) NOT NULL,

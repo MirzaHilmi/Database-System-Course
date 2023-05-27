@@ -1,4 +1,4 @@
-CREATE TABLE sbd.seleksi_masuk
+CREATE TABLE akademik.seleksi_masuk
 (
     id_seleksi_masuk SMALLINT,
     singkat          VARCHAR(12) NOT NULL,

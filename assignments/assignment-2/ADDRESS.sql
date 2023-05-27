@@ -1,5 +1,7 @@
 CREATE SCHEMA SBD;
 
+drop table
+
 CREATE TABLE SBD.ADDRESS
 (
     ID           VARCHAR(36)  NOT NULL

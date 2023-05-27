@@ -1,7 +1,7 @@
-INSERT INTO sbd.strata
+INSERT INTO akademik.strata
 VALUES (1, 'D1', 'Diploma'),
        (2, 'S1', 'Sarjana'),
        (3, 'S2', 'Magister');
 
 SELECT *
-FROM sbd.strata;
+FROM akademik.strata;

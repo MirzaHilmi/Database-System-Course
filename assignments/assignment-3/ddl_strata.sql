@@ -1,4 +1,4 @@
-CREATE TABLE sbd.strata
+CREATE TABLE akademik.strata
 (
     id_strata SMALLINT,
     singkat   VARCHAR(10) NOT NULL,
